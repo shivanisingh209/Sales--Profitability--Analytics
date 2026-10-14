@@ -129,3 +129,17 @@ The analysis highlights Electronics as the leading revenue category, identifies 
 ## Skills Demonstrated
 
 SQL | Data Cleaning | Google Sheets | Pivot Tables | Power BI | DAX | Data Visualization | KPI Analysis | Business Intelligence | Data-Driven Decision Making
+
+## Dashboards
+
+### Google Sheets Dashboard
+
+The Google Sheets dashboard summarizes sales performance through KPI metrics, charts, and category, product, and regional analysis.
+
+![Google Sheets Sales Dashboard](Excel_Dashboard.png)
+
+### Power BI Dashboard
+
+The Power BI dashboard provides interactive sales and profitability analysis using KPI cards, charts, and filters.
+
+![Power BI Sales Dashboard](PowerBI_Dashboard.png)
