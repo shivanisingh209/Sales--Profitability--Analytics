@@ -1,5 +1,5 @@
 # Sales & Profitability Analytics: Identifying Revenue Leakage and Growth Opportunities
-
+Tools: SQL | Google Sheets | Power BI | Excel
 ## Project Overview
 
 This project analyzes e-commerce sales data from April 2024 to March 2026 to evaluate business performance, revenue growth, product profitability, customer behavior, discounts, returns, and regional sales performance.
